@@ -127,7 +127,7 @@ Module 4: Introduction to Git and GitHub
 
 
 ## Contact
-Created by: Amit Ranjan [@AmitwaytoDS] https://github.com/AmitwaytoDS/LedingClubCaseStudy - feel free to contact me!
+Created by: Amit Ranjan [@AmitwaytoDS] https://github.com/AmitwaytoDS/LendingClubCaseStudy - feel free to contact me!
 
 
 <!-- Optional -->
